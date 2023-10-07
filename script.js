@@ -8,7 +8,7 @@ addBtn.addEventListener("click",(e)=>{
     rel.style.color = "green"
 })
 
-\removeBtn.addEventListener("click",(e)=>{
+removeBtn.addEventListener("click",(e)=>{
     // const msg = document.createTextNode("Friend")
     rel.innerHTML = "Someone Else"
     rel.style.color = "red"
