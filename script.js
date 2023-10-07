@@ -1,5 +1,4 @@
 const addBtn = document.querySelector("#add")
-const removeBtn = document.querySelector("#remove")
 const rel = document.querySelector("h2")
 
 addBtn.addEventListener("click",(e)=>{
